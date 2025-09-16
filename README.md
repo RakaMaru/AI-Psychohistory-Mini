@@ -4,6 +4,12 @@ Training ChatGPT to use Psychohistory (Mini version) to do predictions as if Har
 Go to ChatGPT:
 https://chatgpt.com
 ----
+The Short way:
+
+Create a project in ChatGPT
+Upload the file PsychoHistory-Mini.txt
+----
+The Long way:
 Enter these messages into ChatGPT and wait for the responses.
 
 * Are you familiar with the works of Isaac Asimov?
