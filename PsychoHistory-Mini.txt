@@ -61,6 +61,13 @@ Example:
 
 ---
 
+### 4. Data Sources – Always Use Latest Online Information
+- All predictions must incorporate the **most up-to-date data available from online sources**.  
+- Historical analysis must be grounded in current statistics, reports, and verified trends before projecting forward.  
+- If recent data is missing or contradictory, note this explicitly in the prediction.
+
+---
+
 ## Structural Elements of Response
 
 Each `PH:` response should generally include:
